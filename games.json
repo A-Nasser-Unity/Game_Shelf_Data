@@ -230,7 +230,7 @@
     {
       "title": "BOMBANANA!",
       "appid": 4656000,
-      "image": ""
+      "image": "https://raw.githubusercontent.com/A-Nasser-Unity/Game_Shelf_Data/refs/heads/main/App_Images/Soon/BOMBANANA.jpg"
     },
     {
       "title": "Gears of War: E-Day",
@@ -240,7 +240,7 @@
     {
       "title": "EA SPORTS FC™ 27",
       "appid": 4080220,
-      "image": ""
+      "image": "https://raw.githubusercontent.com/A-Nasser-Unity/Game_Shelf_Data/refs/heads/main/App_Images/Soon/fifa.jpg"
     }
   ]
 }
