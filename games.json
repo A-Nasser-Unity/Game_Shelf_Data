@@ -1,54 +1,246 @@
 {
   "trending": [
-    {"title": "Big Walk", "appid": 1478500, "image": ""},
-    {"title": "KINGDOM HEARTS", "appid": 2552430, "image": ""}
-    {"title": "No More Room in Hell 2", "appid": 292000, "image": ""}
-    {"title": "Black Myth: Wukong", "appid": 2552430, "2358720": ""}
-    {"title": "Palworld", "appid": 1623730, "image": ""}
-    {"title": "PEAK", "appid": 3527290, "image": "https://raw.githubusercontent.com/A-Nasser-Unity/Game_Shelf_Data/refs/heads/main/App_Images/Trending/peak.jpg"}
-    {"title": "Dead by Daylight", "appid": 381210, "image": ""}
-    {"title": "IRON NEST: Heavy Turret Simulator", "appid": 2950790, "image": "https://raw.githubusercontent.com/A-Nasser-Unity/Game_Shelf_Data/refs/heads/main/App_Images/Trending/nest.jpg"}
-    {"title": "Cult of the Lamb", "appid": 1313140, "image": ""}
-    {"title": "Forza Horizon 6", "appid": 2483190, "image": "https://raw.githubusercontent.com/A-Nasser-Unity/Game_Shelf_Data/refs/heads/main/App_Images/Trending/Forza6.jpg"}
-    {"title": "Pax Autocratica", "appid": 1067360, "image": "https://raw.githubusercontent.com/A-Nasser-Unity/Game_Shelf_Data/refs/heads/main/App_Images/Trending/autocratica.jpg"}
-    {"title": "Heartopia", "appid": 4025700, "image": "https://raw.githubusercontent.com/A-Nasser-Unity/Game_Shelf_Data/refs/heads/main/App_Images/Trending/heartopia.jpg"}
-    {"title": "Mistfall Hunter", "appid": 3282300, "image": ""}
-    {"title": "Machine Party", "appid": 4108000, "image": "https://raw.githubusercontent.com/A-Nasser-Unity/Game_Shelf_Data/refs/heads/main/App_Images/Trending/machine.jpg"}
-    {"title": "EA SPORTS™ Madden NFL 27", "appid": 3940610, "image": "https://raw.githubusercontent.com/A-Nasser-Unity/Game_Shelf_Data/refs/heads/main/App_Images/Trending/nfl27.jpg"}
-    {"title": "Shift At Midnight", "appid": 3722330, "image": "https://raw.githubusercontent.com/A-Nasser-Unity/Game_Shelf_Data/refs/heads/main/App_Images/Trending/midnight.jpg"}
-    {"title": "MECCHA CHAMELEON", "appid": 4704690, "image": "https://raw.githubusercontent.com/A-Nasser-Unity/Game_Shelf_Data/refs/heads/main/App_Images/Trending/MECCHA.jpg"}
-    {"title": "Assassin's Creed Black Flag Resynced", "appid": 3751950, "image": "https://raw.githubusercontent.com/A-Nasser-Unity/Game_Shelf_Data/refs/heads/main/App_Images/Trending/creed.jpg"}
-    {"title": "ReStory: Chill Electronics Repairs", "appid": 3812600, "image": "https://raw.githubusercontent.com/A-Nasser-Unity/Game_Shelf_Data/refs/heads/main/App_Images/Trending/reStory.jpg"}
-    {"title": "Sandustry", "appid": 2764460, "image": ""}
-    {"title": "DragonSword : Awakening", "appid": 4570720, "image": "https://raw.githubusercontent.com/A-Nasser-Unity/Game_Shelf_Data/refs/heads/main/App_Images/Trending/dragonSword.jpg"}
-    {"title": "MARVEL Tōkon: Fighting Souls", "appid": 3787240, "image": "https://raw.githubusercontent.com/A-Nasser-Unity/Game_Shelf_Data/refs/heads/main/App_Images/Trending/MARVEL.jpg"}
-    {"title": "Low-Budget Repairs", "appid": 3167920, "image": ""}
-    {"title": "Slay the Spire 2", "appid": 2868840, "image": ""}
-    {"title": "Servant of the Lake", "appid": 3636770, "image": "https://raw.githubusercontent.com/A-Nasser-Unity/Game_Shelf_Data/refs/heads/main/App_Images/Trending/servant.jpg"}
-    {"title": "EA SPORTS FC™ 26", "appid": 3405690, "image": "https://raw.githubusercontent.com/A-Nasser-Unity/Game_Shelf_Data/refs/heads/main/App_Images/Trending/fc26.jpg"}
-    {"title": "Crimson Desert", "appid": 3321460, "image": ""}
-    {"title": "Stardew Valley", "appid": 413150, "image": ""}
-    {"title": "Subnautica 2", "appid": 1962700, "image": ""}
-    {"title": "Path of Exile 2", "appid": 2694490, "image": ""}
-    {"title": "Gamble With Your Friends", "appid": 3892270, "image": "https://raw.githubusercontent.com/A-Nasser-Unity/Game_Shelf_Data/refs/heads/main/App_Images/Trending/gamble.jpg"}
-    {"title": "R.E.P.O.", "appid": 3241660, "image": ""}
-    {"title": "Sephiria", "appid": 2436940, "image": ""}
-    {"title": "Sort Them Ducks", "appid": 4992070, "image": "https://raw.githubusercontent.com/A-Nasser-Unity/Game_Shelf_Data/refs/heads/main/App_Images/Trending/ducks.jpg"}
-    {"title": "Waterpark Simulator", "appid": 3293260, "image": "https://raw.githubusercontent.com/A-Nasser-Unity/Game_Shelf_Data/refs/heads/main/App_Images/Trending/waterpark.jpg"}
-    {"title": "Star Wars Outlaws", "appid": 2842040, "image": ""}
-    {"title": "Factorio", "appid": 427520, "image": ""}
-    {"title": "Schedule I", "appid": 3164500, "image": ""}
-    {"title": "Halo: Campaign Evolved", "appid": 2806050, "image": "https://raw.githubusercontent.com/A-Nasser-Unity/Game_Shelf_Data/refs/heads/main/App_Images/Trending/halo.jpg"}
-    {"title": "Fields of Mistria", "appid": 2142790, "image": ""}
+    {
+      "title": "Big Walk",
+      "appid": 1478500,
+      "image": ""
+    },
+    {
+      "title": "KINGDOM HEARTS",
+      "appid": 2552430,
+      "image": ""
+    },
+    {
+      "title": "No More Room in Hell 2",
+      "appid": 292000,
+      "image": ""
+    },
+    {
+      "title": "Black Myth: Wukong",
+      "appid": 2358720,
+      "image": ""
+    },
+    {
+      "title": "Palworld",
+      "appid": 1623730,
+      "image": ""
+    },
+    {
+      "title": "PEAK",
+      "appid": 3527290,
+      "image": "https://raw.githubusercontent.com/A-Nasser-Unity/Game_Shelf_Data/refs/heads/main/App_Images/Trending/peak.jpg"
+    },
+    {
+      "title": "Dead by Daylight",
+      "appid": 381210,
+      "image": ""
+    },
+    {
+      "title": "IRON NEST: Heavy Turret Simulator",
+      "appid": 2950790,
+      "image": "https://raw.githubusercontent.com/A-Nasser-Unity/Game_Shelf_Data/refs/heads/main/App_Images/Trending/nest.jpg"
+    },
+    {
+      "title": "Cult of the Lamb",
+      "appid": 1313140,
+      "image": ""
+    },
+    {
+      "title": "Forza Horizon 6",
+      "appid": 2483190,
+      "image": "https://raw.githubusercontent.com/A-Nasser-Unity/Game_Shelf_Data/refs/heads/main/App_Images/Trending/Forza6.jpg"
+    },
+    {
+      "title": "Pax Autocratica",
+      "appid": 1067360,
+      "image": "https://raw.githubusercontent.com/A-Nasser-Unity/Game_Shelf_Data/refs/heads/main/App_Images/Trending/autocratica.jpg"
+    },
+    {
+      "title": "Heartopia",
+      "appid": 4025700,
+      "image": "https://raw.githubusercontent.com/A-Nasser-Unity/Game_Shelf_Data/refs/heads/main/App_Images/Trending/heartopia.jpg"
+    },
+    {
+      "title": "Mistfall Hunter",
+      "appid": 3282300,
+      "image": ""
+    },
+    {
+      "title": "Machine Party",
+      "appid": 4108000,
+      "image": "https://raw.githubusercontent.com/A-Nasser-Unity/Game_Shelf_Data/refs/heads/main/App_Images/Trending/machine.jpg"
+    },
+    {
+      "title": "EA SPORTS™ Madden NFL 27",
+      "appid": 3940610,
+      "image": "https://raw.githubusercontent.com/A-Nasser-Unity/Game_Shelf_Data/refs/heads/main/App_Images/Trending/nfl27.jpg"
+    },
+    {
+      "title": "Shift At Midnight",
+      "appid": 3722330,
+      "image": "https://raw.githubusercontent.com/A-Nasser-Unity/Game_Shelf_Data/refs/heads/main/App_Images/Trending/midnight.jpg"
+    },
+    {
+      "title": "MECCHA CHAMELEON",
+      "appid": 4704690,
+      "image": "https://raw.githubusercontent.com/A-Nasser-Unity/Game_Shelf_Data/refs/heads/main/App_Images/Trending/MECCHA.jpg"
+    },
+    {
+      "title": "Assassin's Creed Black Flag Resynced",
+      "appid": 3751950,
+      "image": "https://raw.githubusercontent.com/A-Nasser-Unity/Game_Shelf_Data/refs/heads/main/App_Images/Trending/creed.jpg"
+    },
+    {
+      "title": "ReStory: Chill Electronics Repairs",
+      "appid": 3812600,
+      "image": "https://raw.githubusercontent.com/A-Nasser-Unity/Game_Shelf_Data/refs/heads/main/App_Images/Trending/reStory.jpg"
+    },
+    {
+      "title": "Sandustry",
+      "appid": 2764460,
+      "image": ""
+    },
+    {
+      "title": "DragonSword : Awakening",
+      "appid": 4570720,
+      "image": "https://raw.githubusercontent.com/A-Nasser-Unity/Game_Shelf_Data/refs/heads/main/App_Images/Trending/dragonSword.jpg"
+    },
+    {
+      "title": "MARVEL Tōkon: Fighting Souls",
+      "appid": 3787240,
+      "image": "https://raw.githubusercontent.com/A-Nasser-Unity/Game_Shelf_Data/refs/heads/main/App_Images/Trending/MARVEL.jpg"
+    },
+    {
+      "title": "Low-Budget Repairs",
+      "appid": 3167920,
+      "image": ""
+    },
+    {
+      "title": "Slay the Spire 2",
+      "appid": 2868840,
+      "image": ""
+    },
+    {
+      "title": "Servant of the Lake",
+      "appid": 3636770,
+      "image": "https://raw.githubusercontent.com/A-Nasser-Unity/Game_Shelf_Data/refs/heads/main/App_Images/Trending/servant.jpg"
+    },
+    {
+      "title": "EA SPORTS FC™ 26",
+      "appid": 3405690,
+      "image": "https://raw.githubusercontent.com/A-Nasser-Unity/Game_Shelf_Data/refs/heads/main/App_Images/Trending/fc26.jpg"
+    },
+    {
+      "title": "Crimson Desert",
+      "appid": 3321460,
+      "image": ""
+    },
+    {
+      "title": "Stardew Valley",
+      "appid": 413150,
+      "image": ""
+    },
+    {
+      "title": "Subnautica 2",
+      "appid": 1962700,
+      "image": ""
+    },
+    {
+      "title": "Path of Exile 2",
+      "appid": 2694490,
+      "image": ""
+    },
+    {
+      "title": "Gamble With Your Friends",
+      "appid": 3892270,
+      "image": "https://raw.githubusercontent.com/A-Nasser-Unity/Game_Shelf_Data/refs/heads/main/App_Images/Trending/gamble.jpg"
+    },
+    {
+      "title": "R.E.P.O.",
+      "appid": 3241660,
+      "image": ""
+    },
+    {
+      "title": "Sephiria",
+      "appid": 2436940,
+      "image": ""
+    },
+    {
+      "title": "Sort Them Ducks",
+      "appid": 4992070,
+      "image": "https://raw.githubusercontent.com/A-Nasser-Unity/Game_Shelf_Data/refs/heads/main/App_Images/Trending/ducks.jpg"
+    },
+    {
+      "title": "Waterpark Simulator",
+      "appid": 3293260,
+      "image": "https://raw.githubusercontent.com/A-Nasser-Unity/Game_Shelf_Data/refs/heads/main/App_Images/Trending/waterpark.jpg"
+    },
+    {
+      "title": "Star Wars Outlaws",
+      "appid": 2842040,
+      "image": ""
+    },
+    {
+      "title": "Factorio",
+      "appid": 427520,
+      "image": ""
+    },
+    {
+      "title": "Schedule I",
+      "appid": 3164500,
+      "image": ""
+    },
+    {
+      "title": "Halo: Campaign Evolved",
+      "appid": 2806050,
+      "image": "https://raw.githubusercontent.com/A-Nasser-Unity/Game_Shelf_Data/refs/heads/main/App_Images/Trending/halo.jpg"
+    },
+    {
+      "title": "Fields of Mistria",
+      "appid": 2142790,
+      "image": ""
+    }
   ],
   "coming_soon": [
-    {"title": "Dear Passengers", "appid": 4534960, "image": "https://raw.githubusercontent.com/A-Nasser-Unity/Game_Shelf_Data/refs/heads/main/App_Images/Soon/dear.jpg"}
-    {"title": "Phantom Blade Zero", "appid": 4115450, "image": "https://raw.githubusercontent.com/A-Nasser-Unity/Game_Shelf_Data/refs/heads/main/App_Images/Soon/phantom.jpg"}
-    {"title": "Witchbrook", "appid": 1846700, "image": ""}
-    {"title": "The Blood of Dawnwalker", "appid": 3751260, "image": "https://raw.githubusercontent.com/A-Nasser-Unity/Game_Shelf_Data/refs/heads/main/App_Images/Soon/dawnwalker.jpg"}
-    {"title": "Warhammer 40,000: Dawn of War IV", "appid": 2272360, "image": "https://raw.githubusercontent.com/A-Nasser-Unity/Game_Shelf_Data/refs/heads/main/App_Images/Soon/warhammer.jpg"}
-    {"title": "BOMBANANA!", "appid": 4656000, "image": ""}
-    {"title": "Gears of War: E-Day", "appid": 3010850, "image": ""}
-    {"title": "EA SPORTS FC™ 27", "appid": 4080220, "image": ""}
+    {
+      "title": "Dear Passengers",
+      "appid": 4534960,
+      "image": "https://raw.githubusercontent.com/A-Nasser-Unity/Game_Shelf_Data/refs/heads/main/App_Images/Soon/dear.jpg"
+    },
+    {
+      "title": "Phantom Blade Zero",
+      "appid": 4115450,
+      "image": "https://raw.githubusercontent.com/A-Nasser-Unity/Game_Shelf_Data/refs/heads/main/App_Images/Soon/phantom.jpg"
+    },
+    {
+      "title": "Witchbrook",
+      "appid": 1846700,
+      "image": ""
+    },
+    {
+      "title": "The Blood of Dawnwalker",
+      "appid": 3751260,
+      "image": "https://raw.githubusercontent.com/A-Nasser-Unity/Game_Shelf_Data/refs/heads/main/App_Images/Soon/dawnwalker.jpg"
+    },
+    {
+      "title": "Warhammer 40,000: Dawn of War IV",
+      "appid": 2272360,
+      "image": "https://raw.githubusercontent.com/A-Nasser-Unity/Game_Shelf_Data/refs/heads/main/App_Images/Soon/warhammer.jpg"
+    },
+    {
+      "title": "BOMBANANA!",
+      "appid": 4656000,
+      "image": ""
+    },
+    {
+      "title": "Gears of War: E-Day",
+      "appid": 3010850,
+      "image": ""
+    },
+    {
+      "title": "EA SPORTS FC™ 27",
+      "appid": 4080220,
+      "image": ""
+    }
   ]
 }
